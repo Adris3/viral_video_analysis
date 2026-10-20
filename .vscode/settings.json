@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "viral_videos_analysis",
+            "database": "viral_videos",
+            "username": "postgres"
+        }
+    ]
+}
